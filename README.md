@@ -14,8 +14,9 @@
 #### Icons & Fonts: FontAwesome, Google Fonts
 
 ## Live Demo 🌍
-🔗 Portfolio Website
+🔗[Portfolio Website](https://abhinavverma01.github.io/Abhinav-Portfolio/)
 
 ## Screenshots 📸
-![Screenshot (90)](https://github.com/user-attachments/assets/4de8d3d2-907f-46dd-b44e-613b70082d5f)
+![Screenshot (90)](https://github.com/user-attachments/assets/e6eaa19d-99c6-47ad-afb3-b41682baf5c7)
+
 
